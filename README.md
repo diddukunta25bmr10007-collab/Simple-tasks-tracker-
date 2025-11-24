@@ -13,8 +13,8 @@ A command-line Python script designed to help you track your daily habits, mark 
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/diddukunta25bmr10007-collab/Daily-tasks-reminder-.git
-    cd Daily-tasks-reminder-
+    git clone https://github.com/diddukunta25bmr10007-collab/simple-habits-tracker-.git
+    cd simple-habit-tracker-
     ```
 
 2. **Run the script:**
