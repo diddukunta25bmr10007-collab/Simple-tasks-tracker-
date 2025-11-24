@@ -1,4 +1,4 @@
-# Simple Habit Tracker
+# Simple tasks Tracker
 
 A command-line Python script designed to help you track your daily habits, mark them as done or pending, and see your completion progress for the day. Simple, interactive, and ideal for personal use or as a beginner Python project!
 
@@ -13,8 +13,8 @@ A command-line Python script designed to help you track your daily habits, mark 
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/diddukunta25bmr10007-collab/simple-habits-tracker-.git
-    cd simple-habit-tracker-
+    git clone https://github.com/diddukunta25bmr10007-collab/simple-tasks-tracker-.git
+    cd simple-tasks-tracker-
     ```
 
 2. **Run the script:**
